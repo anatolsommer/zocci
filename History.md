@@ -1,3 +1,15 @@
+0.2.3 / 2016-01-30
+==================
+
+  * added more tests
+  * code coverage
+  * housekeeping
+
+0.2.2 / 2016-01-22
+==================
+
+  * added fileMode option
+
 0.2.1 / 2016-01-19
 ==================
 
